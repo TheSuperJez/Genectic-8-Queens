@@ -1,0 +1,10 @@
+E:\Escritorio\8Reinas\OchoReinas\bin\Debug\OchoReinas.exe
+E:\Escritorio\8Reinas\OchoReinas\bin\Debug\OchoReinas.pdb
+E:\Escritorio\8Reinas\OchoReinas\obj\Debug\OchoReinas.Tablero.resources
+E:\Escritorio\8Reinas\OchoReinas\obj\Debug\OchoReinas.MainForm.resources
+E:\Escritorio\8Reinas\OchoReinas\obj\Debug\OchoReinas.Properties.Resources.resources
+E:\Escritorio\8Reinas\OchoReinas\obj\Debug\OchoReinas.csproj.GenerateResource.Cache
+E:\Escritorio\8Reinas\OchoReinas\obj\Debug\OchoReinas.exe
+E:\Escritorio\8Reinas\OchoReinas\obj\Debug\OchoReinas.pdb
+E:\8Reinas\OchoReinas\obj\Debug\OchoReinas.exe
+E:\8Reinas\OchoReinas\obj\Debug\OchoReinas.pdb

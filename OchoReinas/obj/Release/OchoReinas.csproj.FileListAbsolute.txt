@@ -1,0 +1,8 @@
+E:\Escritorio\EightQueensGA\EightQueensGA\obj\Release\OchoReinas.exe
+E:\Escritorio\EightQueensGA\EightQueensGA\obj\Release\OchoReinas.pdb
+E:\Escritorio\EightQueensGA\EightQueensGA\bin\Release\OchoReinas.exe
+E:\Escritorio\EightQueensGA\EightQueensGA\bin\Release\OchoReinas.pdb
+E:\Escritorio\EightQueensGA\EightQueensGA\obj\Release\OchoReinas.MainForm.resources
+E:\Escritorio\EightQueensGA\EightQueensGA\obj\Release\OchoReinas.Properties.Resources.resources
+E:\Escritorio\EightQueensGA\EightQueensGA\obj\Release\OchoReinas.csproj.GenerateResource.Cache
+E:\Escritorio\EightQueensGA\EightQueensGA\obj\Release\OchoReinas.Tablero.resources
